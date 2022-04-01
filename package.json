@@ -1,0 +1,16 @@
+{
+  "name": "femtomath",
+  "version": "0.0.1",
+  "description": "Proof of concept for a different architecture for mathjs",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "author": "Jos de Jong",
+  "license": "ISC",
+  "dependencies": {
+    "complex.js": "2.1.0",
+    "mocha": "9.2.2",
+    "typed-function": "josdejong/typed-function.git#feat%2Fno_binding_self2"
+  }
+}
